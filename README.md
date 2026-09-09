@@ -38,7 +38,7 @@ Players respond to scenarios using **Accept** or **Reject**, earn points for cor
 * Neon
 
 ## Project Structure
-
+```
 Chef_Diner-main/
 ├── client/
 │   ├── index.html
@@ -59,6 +59,7 @@ Chef_Diner-main/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## API Endpoints
 
