@@ -75,7 +75,7 @@ Chef_Diner-main/
 ## Setup
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Chef_Diner.git
+git clone https://github.com/Jeevikarajan/Chef_Diner.git
 cd Chef_Diner
 
 ### 2. Create and activate a virtual environment
