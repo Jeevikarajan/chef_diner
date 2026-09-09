@@ -91,6 +91,7 @@ pip install -r requirements.txt
 Create a `.env` file inside `backend/`:
 
 DATABASE_URL=your_postgresql_connection_string
+
 SECRET_KEY=your_secret_key
 
 ### 5. Start the backend
